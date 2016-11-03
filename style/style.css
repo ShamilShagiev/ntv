@@ -29,7 +29,7 @@ body
 	height: 100vh;
 	width: 100vw;
 	overflow: hidden;
-	background-image: url(./Data/Images/2.jpg);
+	background-image: url(../data/Images/Nature/2.jpg);
 	background-size:cover;
 	background-position-y:center;
 	background-position-x:center;
@@ -47,7 +47,7 @@ body
 	left: 5vw;
 	top: 5vh;
 	overflow: hidden;
-	background-image: url(./Data/Images/2.jpg);
+	background-image: url(../data/Images/Nature/2.jpg);
 	background-size:cover;
 	background-position-y:center;
 	background-position-x:center;
