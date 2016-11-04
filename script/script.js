@@ -1,4 +1,4 @@
-var url = "url(./data/Images/Nature/";
+var url = "url(./Data/Images/Nature/";
 var stack1 = 1;
 var stack2 = 2;
 var jpg = ".jpg"
@@ -39,7 +39,6 @@ function startbtn()
 	i++;
 	if(i == len) return;
 	swap(arr[i]);
-	alert(i);
 	timerId = setTimeout(tick, 1000);
 	return;
 	}, 1000);
